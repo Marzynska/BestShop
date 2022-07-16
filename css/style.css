@@ -12,8 +12,54 @@
     --font-raleway: 'Raleway', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     margin: 0 auto;
     width: 1352px;
     position: relative;
+}
+
+header {
+    background-color: var(--color-white);
+    box-shadow: 0 3px 6px #00000029;
+    opacity: 1;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font: normal normal 300 32px/37px Raleway;
+    color: var(--color-primary);
+    margin: 16px 0 17px 0;
+}
+
+.header__ul{
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    font: normal normal bold 11px/15px Open Sans;
+    letter-spacing: 3.28px;
+    opacity: 1;
+}
+.header__li {
+    padding: 28px 47px 27px 47px;
+}
+
+.header__li a:link {
+    color: var(--color-grey);
+}
+.header__li a:visited {
+    color: var(--color-grey);
+}
+.header__li a:hover {
+    color: var(--color-black);
+    border-bottom: 4px solid #08A6E4;
+    opacity: 1;
+    padding: 0 0 27px 0;
 }
