@@ -15,6 +15,11 @@
 a {
     text-decoration: none;
     cursor: pointer;
+    padding: 34px 0 14px 0;
+}
+H3 {
+    font: normal normal bold 20px/1px Raleway;
+    color: #13253B;
 }
 
 .container {
@@ -296,4 +301,52 @@ header {
 .benefits__img3 {
     width: 296px;
     height: 208px;
+}
+
+.pricing {
+    margin: 100px 0 50px 0;
+}
+.pricing__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.pricing__option {
+    border: 1px solid;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 28%;
+}
+.basic {
+    border-color: var(--color-redish);
+}
+.professional {
+    box-shadow: 5px 10px 27px #07ACE629;
+    border: 1px solid #07ACE6;
+}
+.premium {
+    border-color: var(--color-green);
+}
+.pricing__H3 {
+    padding: 34px 0 14px 0;
+}
+.pricing__p {
+    font: normal normal 300 46px/2px Open Sans;
+    padding: 0 0 5px 0;
+}
+.pricing__p1 {
+    color: var(--color-redish);
+}
+.aside {
+    font: normal normal bold 12px/1px Raleway;
+    color: #13253B;
+    padding: 0 0 50px 0;
+}
+.pricing__list {
+    font: normal normal normal 14px/41px Open Sans;
+    color: var(--color-black);
+    text-align: center;
 }
