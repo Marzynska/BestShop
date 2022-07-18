@@ -18,7 +18,7 @@ a {
     padding: 34px 0 14px 0;
 }
 H3 {
-    font: normal normal bold 20px/1px Raleway;
+    font: normal normal bold 20px/21px Raleway;
     color: #13253B;
 }
 
@@ -310,7 +310,9 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     width: 100%;
+    padding: 50px 0 179px 0;
 }
 .pricing__option {
     border: 1px solid;
@@ -318,7 +320,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 28%;
+    position: relative;
 }
 .basic {
     border-color: var(--color-redish);
@@ -330,18 +332,46 @@ header {
 .premium {
     border-color: var(--color-green);
 }
+
+.pricing__btn {
+    padding: 16px 57px;
+    color: var(--color-white);
+    font: normal normal bold 13px/41px Open Sans;
+    position: absolute;
+    bottom: -35px;
+    border-radius: 23px;
+}
+.btn__basic {
+    background: var(--color-redish);
+}
+.btn__professional {
+    background: #07ACE6;
+    box-shadow: 5px 10px 14px #07ACE629;
+    padding: 16px 64px;
+}
+.btn__premium {
+    background: var(--color-green);
+}
 .pricing__H3 {
     padding: 34px 0 14px 0;
 }
 .pricing__p {
-    font: normal normal 300 46px/2px Open Sans;
-    padding: 0 0 5px 0;
+    font: normal normal 300 46px/48px Open Sans;
 }
 .pricing__p1 {
     color: var(--color-redish);
+    padding: 0 156px 5px 157px;
+}
+.pricing__p2 {
+    color: #07ACE6;
+    padding: 0 156px 5px 156px;
+}
+.pricing__p3 {
+    color: var(--color-green);
+    padding: 0 143px 5px 144px;
 }
 .aside {
-    font: normal normal bold 12px/1px Raleway;
+    font: normal normal bold 12px/13px Raleway;
     color: #13253B;
     padding: 0 0 50px 0;
 }
@@ -349,4 +379,36 @@ header {
     font: normal normal normal 14px/41px Open Sans;
     color: var(--color-black);
     text-align: center;
+}
+.pricing__list li {
+    padding: 0 0 20px 0;
+}
+.pricing__list li:last-child {
+    padding: 0 0 81px 0;
+}
+.pricing--list li {
+    padding: 0 0 26px 0;
+}
+.yes::before, .no::before{
+    width: 11px;
+    height: 11px;
+    margin: 0 10px 0 0;
+    border: 1px solid;
+    border-radius: 2px;
+    display: inline-block;
+}
+.yes::before {
+    content:" ";
+    border-color: var(--color-green);
+    background-image: url(../assets/Checkmark.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 5px 5px;
+}
+.no::before {
+    content:"x";
+    border-color: var(--color-redish);
+    text-align: center;
+    font: normal normal bold 9px/10px Raleway;
+    color: var(--color-redish);
 }
