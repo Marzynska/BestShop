@@ -29,17 +29,19 @@ H3 {
     margin: 0 auto;
     width: 1352px;
     position: relative;
+    top: 0;
 }
 header {
     background-color: var(--color-white);
     box-shadow: 0 3px 6px #00000029;
     opacity: 1;
+    position: sticky;
+    top: 0;
 }
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
 }
 .logo {
     font: normal normal 300 32px/37px Raleway;
@@ -172,7 +174,7 @@ header {
 }
 .stats__description {
     font: normal normal normal 17px/20px Raleway;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     color: var(--color-grey);
     margin: 19px 0 122px 0;
 }
@@ -529,4 +531,43 @@ header {
     border-radius: 35px;
     align-self: flex-end;
     border: none;
+}
+
+.footer {
+    background: var(--color-light-grey) 0 0 no-repeat padding-box;
+    box-shadow: 0 -5px 40px #00000029;
+}
+.footer__main {
+    display: flex;
+    justify-content: space-between;
+}
+.footer__left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.footer__logo {
+    font: normal normal 300 26px/30px Raleway;
+    letter-spacing: 0;
+    color: var(--color-primary);
+    text-align: left;
+    padding: 20px 0 7px 0;
+}
+.footer__copyright {
+    text-align: left;
+    font: normal normal normal 11px/15px Open Sans;
+    letter-spacing: 0;
+    color: var(--color-grey);
+    padding: 0 0 17px 0;
+}
+.footer__right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.footer__icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 20px;
 }
