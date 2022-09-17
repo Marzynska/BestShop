@@ -1,0 +1,130 @@
+.pricing {
+  background: $color-white;
+  margin: 0 auto;
+
+  .heading2 {
+    text-align: center;
+    padding: 53px 0 14px 0;
+  }
+}
+.pricing__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0 0 70px 0;
+  @include desktopHD {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .pricing__option {
+    width: 85%;
+    margin: 0 18px;
+    border: 1px solid;
+    border-radius: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    @include desktopHD {
+      flex-direction: column;
+      justify-content: center;
+    }
+    .pricing__option__wrapper{
+      @include flexColumnCenterCenter;
+    }
+    .pricing__btn {
+      padding: 16px 57px;
+      color: $color-white;
+      font: normal normal bold 13px/41px Open Sans;
+      position: absolute;
+      bottom: 0;
+      transform: translateY(50%);
+      border-radius: 23px;
+      align-self: center;
+    }
+    .btn__basic {
+      background: $color-redish;
+    }
+    .btn__professional {
+      background: #07ACE6;
+      box-shadow: 5px 10px 14px #07ACE629;
+      padding: 16px 64px;
+    }
+    .btn__premium {
+      background: $color-green;
+    }
+  }
+  .basic {
+    border-color: $color-redish;
+  }
+  .professional {
+    box-shadow: 5px 10px 27px #07ACE629;
+    border: 1px solid #07ACE6;
+    margin: 54px 0 54px 0;
+    @include desktopHD {
+      margin: 54px 50px 54px 50px;
+    }
+    width: 100%;
+  }
+  .premium {
+    border-color: $color-green;
+  }
+  .pricing__H3 {
+    padding: 34px 0 14px 0;
+  }
+  .pricing__p {
+    font: normal normal 300 46px/48px Open Sans;
+  }
+  .pricing__p1 {
+    color: $color-redish;
+  }
+  .pricing__p2 {
+    color: #07ACE6;
+  }
+  .pricing__p3 {
+    color: $color-green;
+  }
+  .aside {
+    font: normal normal bold 12px/13px Raleway;
+    color: #13253B;
+  }
+  .pricing__list {
+    font: normal normal normal 14px/41px Open Sans;
+    color: $color-black;
+    text-align: center;
+    padding: 50px 0;
+  }
+  .pricing__list li {
+    padding: 0 0 20px 0;
+  }
+  .pricing__list li:last-child {
+    padding: 0 0 81px 0;
+  }
+  .pricing--list li {
+    padding: 0 0 26px 0;
+  }
+  .yes::before, .no::before{
+    width: 11px;
+    height: 11px;
+    margin: 0 10px 0 0;
+    border: 1px solid;
+    border-radius: 2px;
+    display: inline-block;
+  }
+  .yes::before {
+    content:" ";
+    border-color: $color-green;
+    background-image: url(../assets/Checkmark.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 5px 5px;
+  }
+  .no::before {
+    content:"x";
+    border-color: $color-redish;
+    text-align: center;
+    font: normal normal bold 9px/10px Raleway;
+    color: $color-redish;
+  }
+}

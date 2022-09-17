@@ -1,0 +1,36 @@
+.footer {
+  background: $color-light-grey 0 0 no-repeat padding-box;
+  box-shadow: 0 -5px 40px #00000029;
+}
+.footer__main {
+  display: flex;
+  justify-content: space-between;
+}
+.footer__left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.footer__logo {
+  font: normal normal 300 26px/30px Raleway;
+  color: $color-primary;
+  text-align: left;
+  padding: 20px 0 7px 0;
+}
+.footer__copyright {
+  text-align: left;
+  font: normal normal normal 11px/15px Open Sans;
+  color: $color-grey;
+  padding: 0 0 17px 0;
+}
+.footer__right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.footer__icon {
+  width: 24px;
+  height: 24px;
+  margin-left: 20px;
+}

@@ -1,0 +1,84 @@
+.stats {
+  width: 100%;
+  background: $color-white;
+  margin: 0 auto;
+
+  .stats__main {
+    @include flexColumnCenterCenter;
+  }
+  .heading2 {
+    font: normal normal normal 30px/35px Raleway;
+    color: $color-black;
+    text-align: center;
+    @include desktopHD {
+      font: normal normal normal 36px/42px Raleway;
+    }
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    @include desktopHD {
+      flex-direction: row;
+      justify-content: space-evenly;
+      width: 100%;
+    }
+    .stats__list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      text-align: center;
+    }
+    .stats__circle {
+      width: 63px;
+      height: 63px;
+      border-radius: 50%;
+      background: $color-redish;
+      margin: 25px 0 14px 0;
+    }
+    .stats__circle__middle {
+      background-color: $color-primary;
+    }
+    .stats__circle_end {
+      background-color: $color-green;
+    }
+    .stats__img1 {
+      width: 44px;
+      height: 52px;
+      position: absolute;
+      top: 30px;
+      right: 30px;
+      @include desktopHD {
+        right: 20px;
+      }
+    }
+    .stats__img2 {
+      width: 65px;
+      height: 37px;
+      position: absolute;
+      top: 40px;
+      right: 20px;
+    }
+    .stats__img3 {
+      width: 52px;
+      height: 48px;
+      position: absolute;
+      top: 30px;
+      right: 20px;
+      @include desktopHD {
+        right: 5px;
+      }
+    }
+    .stats__number {
+      font: normal normal 800 20px/24px Raleway;
+      letter-spacing: 5.96px;
+      color: $color-black;
+    }
+    .stats__description {
+      font: normal normal normal 17px/20px Raleway;
+      letter-spacing: 0;
+      color: $color-grey;
+      margin: 19px 0 25px 0;
+    }
+  }
+}

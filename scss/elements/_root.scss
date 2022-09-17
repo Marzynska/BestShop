@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "menu";
+  src: local("menu"),
+  url("/fonts/fontello.woff2") format("woff2"),
+  url("/fonts/fontello.woff") format("woff");
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 100%;
+
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 34px 0 14px 0;
+  }
+  H1{
+    font: normal normal normal 35px/41px Raleway;
+    @include desktopHD {
+      font-size: 49px/57px;
+    }
+  }
+  H2 {
+    font: normal normal normal 30px/35px Raleway;
+    @include desktopHD {
+      font: 36px/42px;
+    }
+    color: $color-black;
+  }
+  H3 {
+    font: normal normal bold 20px/21px Raleway;
+    color: #13253B;
+  }
+}
+.container {
+  margin: 0 auto;
+  position: relative;
+  top: 0;
+  width: 90%;
+  padding: 0 0;
+  @include desktopBig {
+    width: 1352px;
+    padding: 0;
+  }
+}
