@@ -16,6 +16,12 @@
   }
 }
 
+@mixin mobile {
+  @media (max-width: 999px) {
+    @content;
+  }
+}
+
 @mixin flexRowBetweenCenter {
   display: flex;
   justify-content: space-between;

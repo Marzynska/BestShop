@@ -265,23 +265,113 @@ header .logo {
   font: 300 32px / 37px Raleway;
 }
 
+header .header__nav .menu__btn {
+  opacity: 0;
+  display: none;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+@media (max-width: 999px) {
+  header .header__nav .menu__btn:checked ~ .header__ul {
+    display: flex;
+  }
+
+  header .header__nav .menu__btn:checked ~ .menu__toggle span:nth-child(1) {
+    transform: rotate(45deg)translate(2px, 5px);
+  }
+
+  header .header__nav .menu__btn:checked ~ .menu__toggle span:nth-child(2) {
+    opacity: 0;
+  }
+
+  header .header__nav .menu__btn:checked ~ .menu__toggle span:nth-child(3) {
+    transform: rotate(-45deg)translate(2px, -5px);
+  }
+}
+
+header .header__nav .menu__toggle {
+  display: none;
+}
+
+header .header__nav .menu__toggle span {
+  width: 20px;
+  height: 2px;
+  background-color: #08a6e4;
+  margin-bottom: 3px;
+  transition: all .3s ease-in-out;
+  display: block;
+}
+
+header .header__nav .menu__toggle span:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 999px) {
+  header .header__nav .menu__toggle {
+    display: block;
+  }
+}
+
 header .header__ul {
+  text-transform: uppercase;
+  letter-spacing: 3.28px;
+  font: bold 11px / 15px Open Sans;
   display: none;
 }
 
 @media (min-width: 1000px) {
   header .header__ul {
-    text-transform: uppercase;
-    letter-spacing: 3.28px;
     opacity: 1;
     justify-content: flex-end;
-    font: bold 11px / 15px Open Sans;
     display: flex;
   }
 }
 
+@media (max-width: 999px) {
+  header .header__ul {
+    width: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    padding-bottom: 20px;
+    display: none;
+    position: absolute;
+    top: 95px;
+    left: 0;
+  }
+
+  header .header__ul .header__li {
+    padding: 0;
+  }
+
+  header .header__ul .header__link {
+    padding: 14px 20px;
+    display: block;
+  }
+}
+
 header .header__li {
-  padding: 28px 47px 27px;
+  padding: 0 26px;
+}
+
+header .header__li:last-child {
+  padding-right: 0;
+}
+
+@media (min-width: 1000px) {
+  header .header__li {
+    padding: 28px 47px 27px;
+  }
+}
+
+header .header__link {
+  text-transform: uppercase;
+  letter-spacing: .1875rem;
+  border-bottom: 4px solid #0000;
+  padding: 28px 18px 22px;
+  font-size: .6875rem;
+  font-weight: 700;
 }
 
 header .header__li a:link, header .header__li a:visited {
@@ -291,8 +381,13 @@ header .header__li a:link, header .header__li a:visited {
 header .header__li a:hover {
   color: #000;
   opacity: 1;
-  border-bottom: 4px solid #08a6e4;
   padding: 0 0 27px;
+}
+
+@media (min-width: 1000px) {
+  header .header__li a:hover {
+    border-bottom: 4px solid #08a6e4;
+  }
 }
 
 .opening {
