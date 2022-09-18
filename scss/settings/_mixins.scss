@@ -34,3 +34,29 @@
   align-items: center;
   justify-content: center;
 }
+
+@mixin checkbox {
+  cursor: pointer;
+  display: flex;
+  text-align: left;
+  font: normal normal normal 12px/17px Open Sans;
+  color: #707070;
+  opacity: 1;
+}
+
+@mixin checkboxSpan {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  border: 1px solid #95989A;
+  border-radius: 4px;
+  background: #FFFFFF 0 0 no-repeat padding-box;
+  opacity: 1;
+  margin-right: 10px;
+}
+
+@mixin checkboxChecked {
+  background: url("../assets/Checkmark.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -1,6 +1,7 @@
 .contact {
   width: 100%;
   background-color: $color-white;
+  padding: 50px;
 }
 
 .contact__wrap {
@@ -76,28 +77,14 @@
       width: 0;
     }
     .checkbox {
-      cursor: pointer;
-      display: flex;
-      text-align: left;
-      font: normal normal normal 12px/17px Open Sans;
-      color: #707070;
-      opacity: 1;
+      @include checkbox;
     }
     .checkbox span {
-      height: 24px;
-      width: 24px;
-      flex-shrink: 0;
-      border: 1px solid #95989A;
-      border-radius: 4px;
-      background: #FFFFFF 0 0 no-repeat padding-box;
-      opacity: 1;
-      margin-right: 10px;
+      @include checkboxSpan;
     }
 
     .checkbox input:checked + span {
-      background: url("../assets/Checkmark.svg");
-      background-repeat: no-repeat;
-      background-position: center;
+      @include checkboxChecked;
     }
     .contact__btn {
       outline: none;
