@@ -1,4 +1,4 @@
-4430
+4434
 61C:\Users\karol\coderslab\BestShop\node_modules\dom-serializer133048735214009524 1
 61C:\Users\karol\coderslab\BestShop\node_modules\weak-lru-cache133048735211970032 1
 80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\reporter-cli\package.json133048735215249210 0
@@ -13,11 +13,8 @@
 81C:\Users\karol\coderslab\BestShop\node_modules\svgo\plugins\removeStyleElement.js133048735226886292 0
 67C:\Users\karol\coderslab\BestShop\node_modules\tslib\tslib.es6.html133048735201612621 0
 92C:\Users\karol\coderslab\BestShop\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133048735212809815 0
-39C:\Users\karol\coderslab\BestShop\.idea133079171204857495 1
+39C:\Users\karol\coderslab\BestShop\.idea133112899818556889 1
 40C:\Users\karol\coderslab\BestShop\assets133079166499547230 1
-62C:\Users\karol\coderslab\BestShop\node_modules\is-glob\LICENSE133048786392055879 0
-38C:\Users\karol\coderslab\BestShop\scss133079162516525449 1
-72C:\Users\karol\coderslab\BestShop\node_modules\dotenv\lib\env-options.js133048735210250461 0
 89C:\Users\karol\coderslab\BestShop\node_modules\@babel\helper-validator-identifier\LICENSE133048735201572633 0
 58C:\Users\karol\coderslab\BestShop\node_modules\yaml\map.js133048735214889296 0
 80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\runtime-react-refresh\lib133048735203372189 1
@@ -36,7 +33,7 @@
 97C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133048735233623839 0
 82C:\Users\karol\coderslab\BestShop\node_modules\type-fest\source\readonly-deep.d.ts133048735220687844 0
 71C:\Users\karol\coderslab\BestShop\node_modules\dom-serializer\README.md133048735214209482 0
-38C:\Users\karol\coderslab\BestShop\dist133079166749807097 1
+38C:\Users\karol\coderslab\BestShop\dist133112899826742184 1
 50C:\Users\karol\coderslab\BestShop\scss\_reset.scss133048763023737781 0
 93C:\Users\karol\coderslab\BestShop\node_modules\@swc\helpers\lib\_class_private_method_init.js133048735220367923 0
 68C:\Users\karol\coderslab\BestShop\node_modules\mdn-data\package.json133048735215289201 0
@@ -62,9 +59,20 @@
 65C:\Users\karol\coderslab\BestShop\node_modules\msgpackr\unpack.js133048735215649111 0
 63C:\Users\karol\coderslab\BestShop\node_modules\dotenv\config.js133048735204971787 0
 74C:\Users\karol\coderslab\BestShop\node_modules\source-map-js\source-map.js133048786393515054 0
-44C:\Users\karol\coderslab\BestShop\index.html133079160083374553 0
+44C:\Users\karol\coderslab\BestShop\index.html133079816418564362 0
 64C:\Users\karol\coderslab\BestShop\node_modules\commander\LICENSE133048735201772587 0
 74C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\utils\names.js133048735230064729 0
+75C:\Users\karol\coderslab\BestShop\node_modules\color-convert\conversions.js133048735205091746 0
+84C:\Users\karol\coderslab\BestShop\node_modules\@parcel\transformer-babel\lib\flow.js133048735214089504 0
+52C:\Users\karol\coderslab\BestShop\node_modules\acorn133048735212929785 1
+84C:\Users\karol\coderslab\BestShop\node_modules\domelementtype\lib\esm\index.d.ts.map133048735209810571 0
+61C:\Users\karol\coderslab\BestShop\node_modules\type-fest\ts41133048735222047505 1
+103C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\focusoptions-preventscroll.js133048735238782547 0
+80C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\syntax\config\mix.js133048735229984756 0
+108C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133048735202972290 0
+81C:\Users\karol\coderslab\BestShop\node_modules\@babel\helper-validator-identifier133048735209490660 1
+36C:\Users\karol\coderslab\BestShop\js133112898031021066 1
+76C:\Users\karol\coderslab\BestShop\node_modules\nullthrows\nullthrows.js.flow133048735207691098 0
 97C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133048735230784554 0
 88C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\common-targets133048735234623598 1
 73C:\Users\karol\coderslab\BestShop\node_modules\@parcel\graph\lib\types.js133048735215889042 0
@@ -73,13 +81,16 @@
 77C:\Users\karol\coderslab\BestShop\node_modules\csso\lib\clean\TypeSelector.js133048735224126976 0
 94C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\fieldset-disabled.js133048735238462629 0
 46C:\Users\karol\coderslab\BestShop\node_modules133048786396713227 1
+62C:\Users\karol\coderslab\BestShop\node_modules\is-glob\LICENSE133048786392055879 0
+38C:\Users\karol\coderslab\BestShop\scss133079162516525449 1
+72C:\Users\karol\coderslab\BestShop\node_modules\dotenv\lib\env-options.js133048735210250461 0
 59C:\Users\karol\coderslab\BestShop\node_modules\is-json\test133048735209730599 1
 51C:\Users\karol\coderslab\BestShop\node_modules\yaml133048735227166214 1
 71C:\Users\karol\coderslab\BestShop\node_modules\svgo\lib\svgo\jsAPI.d.ts133048735229904773 0
 66C:\Users\karol\coderslab\BestShop\node_modules\picomatch\README.md133048786393495065 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\LB.js133048735242381640 0
 68C:\Users\karol\coderslab\BestShop\node_modules\has-flag\package.json133048735201532644 0
-47C:\Users\karol\coderslab\BestShop\scss\elements133079171203477161 1
+47C:\Users\karol\coderslab\BestShop\scss\elements133112899816454984 1
 90C:\Users\karol\coderslab\BestShop\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map133048735218128485 0
 48C:\Users\karol\coderslab\BestShop\scss\main.scss133079162516525449 0
 103C:\Users\karol\coderslab\BestShop\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133048735227246197 0
@@ -89,11 +100,11 @@
 65C:\Users\karol\coderslab\BestShop\node_modules\json5\package.json133048735214409424 0
 61C:\Users\karol\coderslab\BestShop\node_modules\semver\LICENSE133048735201692604 0
 60C:\Users\karol\coderslab\BestShop\node_modules\parent-module133048735205691600 1
-47C:\Users\karol\coderslab\BestShop\scss\settings133079130597059791 1
+47C:\Users\karol\coderslab\BestShop\scss\settings133079185700550797 1
 57C:\Users\karol\coderslab\BestShop\node_modules\parcel\src133048735209690601 1
 61C:\Users\karol\coderslab\BestShop\scss\elements\_pricing.scss133078774016252741 0
 70C:\Users\karol\coderslab\BestShop\node_modules\css-select\package.json133048735215249210 0
-60C:\Users\karol\coderslab\BestShop\scss\settings\_mixins.scss133079130597059791 0
+60C:\Users\karol\coderslab\BestShop\scss\settings\_mixins.scss133079185700550797 0
 60C:\Users\karol\coderslab\BestShop\node_modules\yaml\util.mjs133048735226766314 0
 78C:\Users\karol\coderslab\BestShop\node_modules\update-browserslist-db\index.js133048735206091498 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\MU.js133048735244141199 0
@@ -116,7 +127,7 @@
 63C:\Users\karol\coderslab\BestShop\scss\settings\_variables.scss133048770228959613 0
 55C:\Users\karol\coderslab\BestShop\node_modules\css-what133048735217168726 1
 62C:\Users\karol\coderslab\BestShop\scss\elements\_benefits.scss133078330339723222 0
-64C:\Users\karol\coderslab\BestShop\scss\elements\_calculator.scss133079165920172475 0
+64C:\Users\karol\coderslab\BestShop\scss\elements\_calculator.scss133112899816453319 0
 83C:\Users\karol\coderslab\BestShop\node_modules\csso\lib\replace\atrule\keyframes.js133048735222607367 0
 75C:\Users\karol\coderslab\BestShop\node_modules\svgo\plugins\_collections.js133048735208091001 0
 56C:\Users\karol\coderslab\BestShop\node_modules\callsites133048735207171234 1
@@ -134,7 +145,7 @@
 56C:\Users\karol\coderslab\BestShop\assets\Checkmark-1.svg133024542512368747 0
 71C:\Users\karol\coderslab\BestShop\node_modules\ordered-binary\README.md133048735211610122 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\RW.js133048735246780552 0
-61C:\Users\karol\coderslab\BestShop\scss\elements\_contact.scss133079171203477161 0
+61C:\Users\karol\coderslab\BestShop\scss\elements\_contact.scss133079193570569950 0
 80C:\Users\karol\coderslab\BestShop\node_modules\svgo\plugins\removeHiddenElems.js133048735226046498 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\SI.js133048735247420381 0
 88C:\Users\karol\coderslab\BestShop\node_modules\@parcel\namer-default\src\DefaultNamer.js133048735205571631 0
@@ -212,16 +223,12 @@
 67C:\Users\karol\coderslab\BestShop\node_modules\is-json\package.json133048735201532644 0
 64C:\Users\karol\coderslab\BestShop\node_modules\term-size\license133048735205451665 0
 125C:\Users\karol\coderslab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133048735230224693 0
-75C:\Users\karol\coderslab\BestShop\node_modules\color-convert\conversions.js133048735205091746 0
-84C:\Users\karol\coderslab\BestShop\node_modules\@parcel\transformer-babel\lib\flow.js133048735214089504 0
-52C:\Users\karol\coderslab\BestShop\node_modules\acorn133048735212929785 1
-84C:\Users\karol\coderslab\BestShop\node_modules\domelementtype\lib\esm\index.d.ts.map133048735209810571 0
 140C:\Users\karol\coderslab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\bar133048735231864277 1
 58C:\Users\karol\coderslab\BestShop\node_modules\ansi-styles133048735207211229 1
 72C:\Users\karol\coderslab\BestShop\node_modules\domutils\lib\stringify.js133048735211370182 0
 51C:\Users\karol\coderslab\BestShop\node_modules\csso133048735226406411 1
 66C:\Users\karol\coderslab\BestShop\node_modules\yaml\types\pairs.js133048735217208720 0
-59C:\Users\karol\coderslab\BestShop\dist\Twitter.41e2b00a.svg133079166749338320 0
+59C:\Users\karol\coderslab\BestShop\dist\Twitter.41e2b00a.svg133112894523878821 0
 88C:\Users\karol\coderslab\BestShop\node_modules\@babel\highlight\node_modules\chalk\types133048735210130492 1
 53C:\Users\karol\coderslab\BestShop\node_modules\base-x133048735206211488 1
 64C:\Users\karol\coderslab\BestShop\node_modules\tslib\LICENSE.txt133048735213529648 0
@@ -566,17 +573,17 @@
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\PE.js133048735245420883 0
 72C:\Users\karol\coderslab\BestShop\node_modules\htmlnano\docs\sidebars.js133048735220727833 0
 65C:\Users\karol\coderslab\BestShop\node_modules\tslib\package.json133048735210530413 0
-66C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\walker133048735228745056 1
-77C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\buildCache.js133048735221727581 0
-86C:\Users\karol\coderslab\BestShop\node_modules\json-parse-even-better-errors\README.md133048735207571130 0
-87C:\Users\karol\coderslab\BestShop\node_modules\source-map-js\lib\source-map-consumer.js133048786393295175 0
-58C:\Users\karol\coderslab\BestShop\node_modules\terser\dist133048735227086234 1
-81C:\Users\karol\coderslab\BestShop\node_modules\type-fest\source\set-required.d.ts133048735221687591 0
 63C:\Users\karol\coderslab\BestShop\node_modules\svgo\lib\xast.js133048735229544863 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\TD.js133048735248300171 0
 94C:\Users\karol\coderslab\BestShop\node_modules\@parcel\transformer-image\src\validateConfig.js133048735210650363 0
 86C:\Users\karol\coderslab\BestShop\node_modules\@parcel\packager-svg\src\SVGPackager.js133048735205531640 0
 56C:\Users\karol\coderslab\BestShop\node_modules\type-fest133048735216128984 1
+66C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\walker133048735228745056 1
+77C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\buildCache.js133048735221727581 0
+86C:\Users\karol\coderslab\BestShop\node_modules\json-parse-even-better-errors\README.md133048735207571130 0
+58C:\Users\karol\coderslab\BestShop\node_modules\terser\dist133048735227086234 1
+81C:\Users\karol\coderslab\BestShop\node_modules\type-fest\source\set-required.d.ts133048735221687591 0
+87C:\Users\karol\coderslab\BestShop\node_modules\source-map-js\lib\source-map-consumer.js133048786393295175 0
 86C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\atob-btoa.js133048735222847303 0
 79C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\Parcel.test.js133048735230824544 0
 70C:\Users\karol\coderslab\BestShop\node_modules\posthtml-parser\license133048735201652610 0
@@ -610,7 +617,7 @@
 75C:\Users\karol\coderslab\BestShop\node_modules\@parcel\packager-css\LICENSE133048735201732606 0
 59C:\Users\karol\coderslab\BestShop\node_modules\yaml\LICENSE133048735201612621 0
 61C:\Users\karol\coderslab\BestShop\node_modules\nan\doc\new.md133048735222807314 0
-57C:\Users\karol\coderslab\BestShop\dist\index.574c7455.css133079166749494634 0
+57C:\Users\karol\coderslab\BestShop\dist\index.574c7455.css133112899826672223 0
 73C:\Users\karol\coderslab\BestShop\node_modules\svgo\plugins\removeDesc.js133048735223967021 0
 64C:\Users\karol\coderslab\BestShop\node_modules\yaml\package.json133048735226286434 0
 61C:\Users\karol\coderslab\BestShop\node_modules\yaml\README.md133048735226566368 0
@@ -983,8 +990,6 @@
 65C:\Users\karol\coderslab\BestShop\node_modules\acorn\CHANGELOG.md133048735212489897 0
 74C:\Users\karol\coderslab\BestShop\node_modules\sass\types\value\color.d.ts133048786394994209 0
 63C:\Users\karol\coderslab\BestShop\node_modules\type-fest\source133048735222967271 1
-61C:\Users\karol\coderslab\BestShop\node_modules\type-fest\ts41133048735222047505 1
-103C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\focusoptions-preventscroll.js133048735238782547 0
 78C:\Users\karol\coderslab\BestShop\node_modules\type-fest\source\utilities.d.ts133048735222847303 0
 79C:\Users\karol\coderslab\BestShop\node_modules\postcss-value-parser\lib\unit.js133048735208410930 0
 93C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-mediaqueries.js133048735235183456 0
@@ -1180,7 +1185,7 @@
 67C:\Users\karol\coderslab\BestShop\node_modules\@parcel\packager-svg133048735206651369 1
 72C:\Users\karol\coderslab\BestShop\node_modules\terser\lib\utils\index.js133048735222487401 0
 90C:\Users\karol\coderslab\BestShop\node_modules\csso\lib\restructure\4-restructShorthand.js133048735208570881 0
-63C:\Users\karol\coderslab\BestShop\dist\BestShop.3464ddca.js.map133079166749807097 0
+63C:\Users\karol\coderslab\BestShop\dist\BestShop.3464ddca.js.map133079171330651562 0
 86C:\Users\karol\coderslab\BestShop\node_modules\terser\lib\compress\compressor-flags.js133048735219648105 0
 96C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\keyboardevent-which.js133048735241941747 0
 75C:\Users\karol\coderslab\BestShop\node_modules\postcss-value-parser\LICENSE133048735201652610 0
@@ -1459,10 +1464,6 @@
 77C:\Users\karol\coderslab\BestShop\node_modules\css-what\lib\es\parse.d.ts.map133048735215329190 0
 72C:\Users\karol\coderslab\BestShop\node_modules\sass\sass.default.dart.js133048786394824305 0
 72C:\Users\karol\coderslab\BestShop\node_modules\sass\types\exception.d.ts133048786395044180 0
-80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\public\Config.js133048735225846553 0
-72C:\Users\karol\coderslab\BestShop\node_modules\import-fresh\package.json133048735204731849 0
-102C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133048735233343903 0
-118C:\Users\karol\coderslab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133048735229264939 0
 71C:\Users\karol\coderslab\BestShop\node_modules\sass\types\importer.d.ts133048786395174111 0
 68C:\Users\karol\coderslab\BestShop\node_modules\sass\types\index.d.ts133048786395224084 0
 64C:\Users\karol\coderslab\BestShop\node_modules\sass\types\logger133048786395543905 1
@@ -1525,7 +1526,7 @@
 65C:\Users\karol\coderslab\BestShop\node_modules\readdirp\README.md133048786392795458 0
 69C:\Users\karol\coderslab\BestShop\node_modules\immutable\package.json133048786393634986 0
 79C:\Users\karol\coderslab\BestShop\node_modules\cosmiconfig\dist\ExplorerSync.js133048735208011017 0
-61C:\Users\karol\coderslab\BestShop\dist\Mail Icon.b0bc1804.svg133079166749338320 0
+61C:\Users\karol\coderslab\BestShop\dist\Mail Icon.b0bc1804.svg133112894523878821 0
 76C:\Users\karol\coderslab\BestShop\node_modules\react-refresh\build-info.json133048735211610122 0
 104C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133048735234863530 0
 59C:\Users\karol\coderslab\BestShop\node_modules\mdn-data\api133048735214689345 1
@@ -1699,10 +1700,6 @@
 77C:\Users\karol\coderslab\BestShop\node_modules\lmdb-win32-x64\node.abi83.node133048735217888549 0
 72C:\Users\karol\coderslab\BestShop\node_modules\binary-extensions\license133048786392015907 0
 71C:\Users\karol\coderslab\BestShop\node_modules\nullthrows\nullthrows.js133048735206171490 0
-80C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\syntax\config\mix.js133048735229984756 0
-108C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133048735202972290 0
-81C:\Users\karol\coderslab\BestShop\node_modules\@babel\helper-validator-identifier133048735209490660 1
-76C:\Users\karol\coderslab\BestShop\node_modules\nullthrows\nullthrows.js.flow133048735207691098 0
 92C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\getrandomvalues.js133048735239502379 0
 78C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\regions\CV.js133048735236863053 0
 82C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lz4\lib\README.md133048735233183955 0
@@ -2030,6 +2027,10 @@
 86C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\autofocus.js133048735223847056 0
 88C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\requests\EntryRequest.js133048735227606104 0
 84C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lz4\lib\dll\example133048735233703819 1
+80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\public\Config.js133048735225846553 0
+72C:\Users\karol\coderslab\BestShop\node_modules\import-fresh\package.json133048735204731849 0
+102C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133048735233343903 0
+118C:\Users\karol\coderslab\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133048735229264939 0
 94C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133048735233143961 0
 87C:\Users\karol\coderslab\BestShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133048735202052526 1
 84C:\Users\karol\coderslab\BestShop\node_modules\csso\lib\restructure\1-mergeAtrule.js133048735203972051 0
@@ -2179,8 +2180,8 @@
 67C:\Users\karol\coderslab\BestShop\node_modules\json5\lib\unicode.js133048735213249738 0
 81C:\Users\karol\coderslab\BestShop\node_modules\css-tree\lib\syntax\atrule\page.js133048735230784554 0
 64C:\Users\karol\coderslab\BestShop\node_modules\json5\lib\util.js133048735213849565 0
-89C:\Users\karol\coderslab\BestShop\node_modules\entities\lib\generated\decode-data-html.js133048735207611125 0
 80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\lib\public\Config.js133048735225726573 0
+89C:\Users\karol\coderslab\BestShop\node_modules\entities\lib\generated\decode-data-html.js133048735207611125 0
 68C:\Users\karol\coderslab\BestShop\node_modules\.bin\browserslist.ps1133048735251499358 0
 70C:\Users\karol\coderslab\BestShop\node_modules\json5\dist\index.min.js133048735208690849 0
 67C:\Users\karol\coderslab\BestShop\node_modules\json5\dist\index.mjs133048735216688891 0
@@ -3053,7 +3054,7 @@
 72C:\Users\karol\coderslab\BestShop\node_modules\@parcel\watcher\src\macos133048735218928280 1
 97C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-case-insensitive.js133048735233103971 0
 96C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-conic-gradients.js133048735233263930 0
-61C:\Users\karol\coderslab\BestShop\dist\index.574c7455.css.map133079166749650874 0
+61C:\Users\karol\coderslab\BestShop\dist\index.574c7455.css.map133112899826712197 0
 98C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-container-queries.js133048735233303919 0
 102C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-container-query-units.js133048735233343903 0
 92C:\Users\karol\coderslab\BestShop\node_modules\caniuse-lite\data\features\css-containment.js133048735233343903 0
@@ -3704,7 +3705,7 @@
 80C:\Users\karol\coderslab\BestShop\node_modules\@parcel\workers\src\WorkerFarm.js133048735223967021 0
 90C:\Users\karol\coderslab\BestShop\node_modules\@parcel\workers\src\process\ProcessChild.js133048735219728088 0
 77C:\Users\karol\coderslab\BestShop\node_modules\@parcel\workers\lib\backend.js133048735203652110 0
-59C:\Users\karol\coderslab\BestShop\dist\Macbook.a1f4b436.png133079166749650874 0
+59C:\Users\karol\coderslab\BestShop\dist\Macbook.a1f4b436.png133112894524708356 0
 95C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\lib\requests\ParcelConfigRequest.js133048735231384402 0
 73C:\Users\karol\coderslab\BestShop\node_modules\@parcel\workers\lib\bus.js133048735206971282 0
 77C:\Users\karol\coderslab\BestShop\node_modules\@parcel\runtime-js\src\helpers133048735223247196 1
@@ -3747,7 +3748,7 @@
 90C:\Users\karol\coderslab\BestShop\node_modules\@parcel\watcher\src\linux\InotifyBackend.hh133048735219328178 0
 106C:\Users\karol\coderslab\BestShop\node_modules\@parcel\watcher\prebuilds\darwin-arm64\node.napi.glibc.node133048735222647349 0
 73C:\Users\karol\coderslab\BestShop\node_modules\@parcel\utils\.eslintrc.js133048735203412181 0
-59C:\Users\karol\coderslab\BestShop\dist\BestShop.3464ddca.js133079166749650874 0
+59C:\Users\karol\coderslab\BestShop\dist\BestShop.3464ddca.js133079171330651562 0
 73C:\Users\karol\coderslab\BestShop\node_modules\@parcel\utils\package.json133048735228984996 0
 81C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\src\Transformation.js133048735233743809 0
 65C:\Users\karol\coderslab\BestShop\node_modules\@parcel\utils\test133048735228545109 1
@@ -4166,7 +4167,7 @@
 84C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\BundleGraph.test.js133048735223727080 0
 93C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\application-targets133048735234583595 1
 83C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\bundle.js133048735222407413 0
-58C:\Users\karol\coderslab\BestShop\dist\iPhone.18df9ac3.png133079166749650874 0
+58C:\Users\karol\coderslab\BestShop\dist\iPhone.18df9ac3.png133112894524708356 0
 97C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133048735211090247 1
 97C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133048735234703569 1
 98C:\Users\karol\coderslab\BestShop\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133048735234703569 1
@@ -4403,20 +4404,23 @@
 58C:\Users\karol\coderslab\BestShop\node_modules\.bin\semver133048735251499358 0
 62C:\Users\karol\coderslab\BestShop\node_modules\.bin\semver.ps1133048735251499358 0
 60C:\Users\karol\coderslab\BestShop\node_modules\.bin\svgo.cmd133048735251499358 0
+56C:\Users\karol\coderslab\BestShop\dist\index.cea00a9b.js133112898032540250 0
 58C:\Users\karol\coderslab\BestShop\node_modules\.bin\terser133048735251499358 0
+43C:\Users\karol\coderslab\BestShop\js\app.js133112898031017112 0
 53C:\Users\karol\coderslab\BestShop\fonts\fontello.woff133048923865935634 0
-57C:\Users\karol\coderslab\BestShop\dist\Arrow.7c8fdf4f.svg133079166749338320 0
-62C:\Users\karol\coderslab\BestShop\dist\Background.96fc9b9b.png133079166749807097 0
-59C:\Users\karol\coderslab\BestShop\dist\Catalog.8507218e.svg133079166749338320 0
-61C:\Users\karol\coderslab\BestShop\dist\Checkmark.c57fbd17.svg133079166749338320 0
-55C:\Users\karol\coderslab\BestShop\dist\Eye.e60e75e7.svg133079166749338320 0
-60C:\Users\karol\coderslab\BestShop\dist\Facebook.389b15e8.svg133079166749338320 0
-62C:\Users\karol\coderslab\BestShop\dist\fontello.39bd2920.woff2133079166747268012 0
-61C:\Users\karol\coderslab\BestShop\dist\fontello.a38b19a4.woff133079166747268012 0
-49C:\Users\karol\coderslab\BestShop\dist\index.html133079166749338320 0
-58C:\Users\karol\coderslab\BestShop\dist\Person.e8721018.svg133079166749338320 0
-62C:\Users\karol\coderslab\BestShop\dist\Phone Icon.b10af3a5.svg133079166749338320 0
-59C:\Users\karol\coderslab\BestShop\dist\Trumpet.041da3b3.png133079166749650874 0
+57C:\Users\karol\coderslab\BestShop\dist\Arrow.7c8fdf4f.svg133112894523908801 0
+62C:\Users\karol\coderslab\BestShop\dist\Background.96fc9b9b.png133112894524718341 0
+59C:\Users\karol\coderslab\BestShop\dist\Catalog.8507218e.svg133112894523878821 0
+61C:\Users\karol\coderslab\BestShop\dist\Checkmark.c57fbd17.svg133112894523888821 0
+55C:\Users\karol\coderslab\BestShop\dist\Eye.e60e75e7.svg133112894523878821 0
+60C:\Users\karol\coderslab\BestShop\dist\Facebook.389b15e8.svg133112894523888821 0
+62C:\Users\karol\coderslab\BestShop\dist\fontello.39bd2920.woff2133112894523958781 0
+61C:\Users\karol\coderslab\BestShop\dist\fontello.a38b19a4.woff133112894523938783 0
+60C:\Users\karol\coderslab\BestShop\dist\index.cea00a9b.js.map133112898032570216 0
+49C:\Users\karol\coderslab\BestShop\dist\index.html133112854740630653 0
+58C:\Users\karol\coderslab\BestShop\dist\Person.e8721018.svg133112894523878821 0
+62C:\Users\karol\coderslab\BestShop\dist\Phone Icon.b10af3a5.svg133112894523888821 0
+59C:\Users\karol\coderslab\BestShop\dist\Trumpet.041da3b3.png133112894524708356 0
 50C:\Users\karol\coderslab\BestShop\assets\Arrow.svg133079166014498974 0
 55C:\Users\karol\coderslab\BestShop\assets\Background.png133024542511108986 0
 52C:\Users\karol\coderslab\BestShop\assets\Catalog.svg133024542511528874 0
@@ -4428,4 +4432,4 @@
 52C:\Users\karol\coderslab\BestShop\assets\Trumpet.png133024542515889983 0
 50C:\Users\karol\coderslab\BestShop\.idea\.gitignore133024548256690380 0
 52C:\Users\karol\coderslab\BestShop\.idea\BestShop.iml133024548252321413 0
-53C:\Users\karol\coderslab\BestShop\.idea\workspace.xml133079171204857495 0
+53C:\Users\karol\coderslab\BestShop\.idea\workspace.xml133112899818476922 0

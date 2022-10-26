@@ -950,6 +950,7 @@ header .header__li a:hover {
 
 .calc__form {
   width: 50%;
+  margin-left: 30px;
   margin-right: 20px;
 }
 
@@ -1080,6 +1081,10 @@ header .header__li a:hover {
     margin-top: 30px;
     margin-left: 0;
   }
+}
+
+.calc__summary ul {
+  margin-left: 50px;
 }
 
 .calc__summary .summary__total, .calc__summary .list__item {
