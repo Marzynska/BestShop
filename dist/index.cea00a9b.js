@@ -3,6 +3,7 @@ const inputProductsQty = document.querySelector("#products");
 const inputOrdersQty = document.querySelector("#orders");
 const selectPackage = document.querySelector("#package");
 const dropdown = document.querySelector(".select__dropdown");
+const inputText = document.querySelector(".select__input");
 const accounting = document.querySelector("#accounting");
 const terminal = document.querySelector("#terminal");
 // summary
@@ -28,9 +29,20 @@ inputOrdersQty.addEventListener("input", function(event) {
     total.classList.add("open");
 });
 selectPackage.addEventListener("click", function(event) {
-    dropdown.style.display = "block";
-// listItem[2].classList.add("open");
-// total.classList.add("open");
-}); // dropdown.children => wybór zapisany w selekcie, wyświetelnie lisItem2 + total
+    selectPackage.classList.toggle("open");
+});
+dropdown.addEventListener("click", function(event) {
+    inputText.innerText = event.target.dataset.value;
+    listItem[2].classList.add("open");
+    total.classList.add("open");
+});
+accounting.addEventListener("click", function(event) {
+    listItem[3].classList.add("open");
+    total.classList.add("open");
+});
+terminal.addEventListener("click", function(event) {
+    listItem[4].classList.add("open");
+    total.classList.add("open");
+});
 
 //# sourceMappingURL=index.cea00a9b.js.map
